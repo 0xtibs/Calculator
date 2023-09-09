@@ -125,3 +125,4 @@ def main():
 
     total_revenue = revenue_a + revenue_b + revenue_c
     st.write(f"Total Revenue: ${total_revenue}")
+main()
