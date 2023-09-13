@@ -9,7 +9,7 @@ prices = {
     "AMBO FLAVOR": 365,
     "PREDATOR ENERGY": 435,
     "SUGAR FREE COCA": 312,
-    "NOVIDA": 0,
+    "NOVIDA": 416,
 }
 
 # UI for the application
